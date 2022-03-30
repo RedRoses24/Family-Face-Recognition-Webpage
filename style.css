@@ -1,0 +1,33 @@
+body{
+    background-color: lightpink;
+    color: goldenrod;
+    background-image: url('https://tipsmake.com/data3/images/cute-background-download-cute-background-here-picture-27-iMlPzMaec.jpg');
+    background-size: cover;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+    border-radius: 20px;
+    font-family: 'Montagu Slab', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Readex Pro', sans-serif;
+    background-color:#E75480;
+    color: white;
+    text-shadow: 1px;
+}
+.name_of_objects{
+    background-color:#E75480;
+    color: white;
+    font-family: 'Montagu Slab', serif;
+    font-size: larger;
+    width: 80%;
+}
+#camera{
+    border: 2px ridge brown;
+    width: 350px;
+    height: 300px;
+}
+#result_objects_name, #result_objects_accuracy{
+    background-color: #E75480; 
+    color: white;
+}
